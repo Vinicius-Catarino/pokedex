@@ -13,14 +13,14 @@
 
 ## Tecnologias
 
-[React](https://pt-br.reactjs.org/)
-[Axios](https://github.com/axios/axios)
-[Styled-components](https://styled-components.com/)
-[React-Router](https://reactrouter.com/web/guides/quick-start)
-[React-Icons](https://react-icons.github.io/react-icons/)
-[Typescript](https://www.typescriptlang.org/)
-[Lodash](https://lodash.com/)
-[Polished](https://polished.js.org/)
+- [React](https://pt-br.reactjs.org/)
+- [Axios](https://github.com/axios/axios)
+- [Styled-components](https://styled-components.com/)
+- [React-Router](https://reactrouter.com/web/guides/quick-start)
+- [React-Icons](https://react-icons.github.io/react-icons/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Lodash](https://lodash.com/)
+- [Polished](https://polished.js.org/)
 
 ## Intalação e execução
 
